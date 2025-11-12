@@ -1,3 +1,6 @@
 [submodule "timetable-recommendation-backend"]
 	path = timetable-recommendation-backend
 	url = https://github.com/Timetable-Service-OSS02/timetable-recommendation-backend.git
+[submodule "core"]
+	path = core
+	url = https://github.com/Timetable-Service-OSS02/timetable-recommendation-backend.git
